@@ -1,0 +1,47 @@
+﻿  curvedata.cpp
+  knob.cpp
+  mainwindow.cpp
+  plot.cpp
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qwt-6.1.3\examples\oscilloscope\plot.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  samplingthread.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: 'M_E': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(155): message : see previous definition of 'M_E'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: 'M_LOG2E': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(159): message : see previous definition of 'M_LOG2E'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: 'M_LOG10E': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(163): message : see previous definition of 'M_LOG10E'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: 'M_LN2': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(167): message : see previous definition of 'M_LN2'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: 'M_LN10': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(171): message : see previous definition of 'M_LN10'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(175): message : see previous definition of 'M_PI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: 'M_PI_2': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(179): message : see previous definition of 'M_PI_2'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(30,1): warning C4005: 'M_PI_4': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(183): message : see previous definition of 'M_PI_4'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(31,1): warning C4005: 'M_1_PI': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(187): message : see previous definition of 'M_1_PI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(32,1): warning C4005: 'M_2_PI': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(191): message : see previous definition of 'M_2_PI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(33,1): warning C4005: 'M_2_SQRTPI': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(195): message : see previous definition of 'M_2_SQRTPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(34,1): warning C4005: 'M_SQRT2': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(199): message : see previous definition of 'M_SQRT2'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(35,1): warning C4005: 'M_SQRT1_2': macro redefinition
+C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\qt\include\QtCore\qmath.h(203): message : see previous definition of 'M_SQRT1_2'
+  signaldata.cpp
+  wheelbox.cpp
+  colorpicker.cpp
+  main.cpp
+  recordlist.cpp
+  moc_knob.cpp
+  moc_mainwindow.cpp
+  moc_plot.cpp
+  moc_samplingthread.cpp
+  moc_wheelbox.cpp
+  moc_colorpicker.cpp
+  moc_recordlist.cpp
+  Generating Code...
+  LINK : ..\bin\\testQWTd.exe not found or not built by the last incremental link; performing full link
+  testqt.vcxproj -> C:\Users\jorpa\Documents\Programming\examen_transmin\qwt-master\project\bin\testQWTd.exe
